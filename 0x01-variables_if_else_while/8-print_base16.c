@@ -10,16 +10,16 @@ int main(void)
 {
 char c;
 
-int d ;
+int d;
 
 c = 'a';
-while
-	(c <= 'f') {
-		putchar(c);
-		c++;
-}
 for (d = 0; d <= 9; d++)
 printf("%d", d);
 putchar('\n');
+while
+(c <= 'f') {
+	putchar(c);
+	c++;
+}
 return (0);
 }
