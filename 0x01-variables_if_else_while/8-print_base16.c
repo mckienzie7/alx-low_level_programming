@@ -15,11 +15,12 @@ int d;
 c = 'a';
 for (d = 0; d <= 9; d++)
 printf("%d", d);
-putchar('\n');
+
 while
 (c <= 'f') {
 	putchar(c);
 	c++;
 }
+putchar('\n');
 return (0);
 }
