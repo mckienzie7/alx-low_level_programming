@@ -9,8 +9,10 @@
 int main(void)
 {
 char c;
+
+int d ;
+
 c = 'a';
-int d;
 while
 	(c <= 'f') {
 		putchar(c);
