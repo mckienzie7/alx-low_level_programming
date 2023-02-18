@@ -22,6 +22,6 @@ while
 	putchar(d);
 	d++;
 }
-putchar('\n');;
+putchar('\n');
 return (0);
 }
