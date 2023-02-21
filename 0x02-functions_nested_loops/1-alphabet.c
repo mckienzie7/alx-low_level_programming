@@ -1,4 +1,4 @@
-#include "maih.h"
+#include "main.h"
 /* 
  * print alphabet -make the alphabet
  * return -  void
