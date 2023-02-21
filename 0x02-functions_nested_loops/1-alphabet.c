@@ -1,10 +1,7 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include"main.h"
-/**
- * void - Posses the lower aphabet case 
- *
- * return -  Always 0
+#include "maih.h"
+/* 
+ * print alphabet -make the alphabet
+ * return -  void
  */
 void print_alphabet(void)
 {
