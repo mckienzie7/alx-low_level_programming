@@ -14,7 +14,7 @@ void print_alphabet(void)
 		putchar(c);
 		putchar('\n');
 	}
-
+}
 /**
  * main - check the code
  *
