@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+#include<main.h>
 /**
  * void - Posses the lower aphabet case 
  *
