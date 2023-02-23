@@ -5,7 +5,7 @@
  * @size - number for tringle
  * Return: empty
  */
-void print_triangle()
+void print_triangle(int size)
 {
 	int x, y, z;
 
