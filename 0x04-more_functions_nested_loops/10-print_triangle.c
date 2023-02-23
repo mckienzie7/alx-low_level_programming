@@ -2,7 +2,7 @@
 
 /**
  * print_triangle - check codde
- * @size - number for tringle
+ * @size: number for triange
  * Return: empty
  */
 void print_triangle(int size)
