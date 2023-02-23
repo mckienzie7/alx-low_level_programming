@@ -4,7 +4,7 @@
  * print_diagonal - check code
  * Return: empty
  */
-void print_diagonal(void)
+void print_diagonal(int n)
 {
 	int x, y;
 
