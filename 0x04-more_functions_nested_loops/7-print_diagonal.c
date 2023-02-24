@@ -2,6 +2,7 @@
 
 /**
  * print_diagonal - check code
+ * @n: number for diagonals
  * Return: empty
  */
 void print_diagonal(int n)
