@@ -2,8 +2,8 @@
 
 /**
  * swap_int - change the code by pointer
- * @a - integer number
- * @b - number
+ * @a: integer number
+ * @b: number
  * Return: Nothing
  */
 
