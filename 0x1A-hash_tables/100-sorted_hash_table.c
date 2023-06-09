@@ -1,6 +1,6 @@
 /*
  * File: 100-sorted_hash_table.c
- * Auth: Brennan D Baraban
+ * Author: Michael Solomon
  */
 
 #include "hash_tables.h"
