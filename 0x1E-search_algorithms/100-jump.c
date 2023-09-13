@@ -2,7 +2,9 @@
  * File: 100-jump.c
  * Auth: Michael Solomon
  */
-
+#include <stddef.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include "search_algos.h"
 
 /**
